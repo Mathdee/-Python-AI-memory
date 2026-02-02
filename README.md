@@ -175,6 +175,9 @@ results = brain.retrieve("What does the user prefer?", top_k=5)
 ```bash
 docker build -t metabolic-memory .
 docker run -p 8000:8000 metabolic-memory
+
+# Quick Deploy
+docker-compose up -d
 ```
 
 **Docker (full stack with Streamlit UI):** Use the legacy `api:app` by restoring the previous Dockerfile CMD.
