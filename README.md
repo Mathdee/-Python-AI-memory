@@ -185,5 +185,5 @@ docker-compose up -d
 
 ## License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
