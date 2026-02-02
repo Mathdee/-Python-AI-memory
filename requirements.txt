@@ -1,0 +1,17 @@
+# Core
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+numpy>=1.24.0
+
+# API & UI
+streamlit>=1.29.0
+httpx>=0.26.0
+
+# Background & benchmarking
+schedule>=1.2.0
+psutil>=5.9.0
+
+# Optional for summarization (cold storage)
+# openai>=1.0.0  # uncomment if using LLM summarization
