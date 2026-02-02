@@ -180,7 +180,6 @@ docker run -p 8000:8000 metabolic-memory
 docker-compose up -d
 ```
 
-**Docker (full stack with Streamlit UI):** Use the legacy `api:app` by restoring the previous Dockerfile CMD.
 
 ## License
 
