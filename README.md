@@ -1,3 +1,5 @@
+`This repository serves as a proof-of-concept for Stigmergic Memory Decay in RAG systems. It is provided as-is for researchers and engineers to fork and adapt.`
+
 # Adaptive Memory System for LLMs
 
 **Bio-inspired decay + tiered storage: optimize forgetting, not just storage.**
